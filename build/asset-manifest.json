@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e50a1ebd.css",
+    "main.js": "/static/js/main.3fcad3b9.js",
+    "static/media/couch.png": "/static/media/couch.cb4ec7761ad480fa89ad.png",
+    "static/media/table.png": "/static/media/table.4bf6a601e1b8ccb03af1.png",
+    "static/media/texas.svg": "/static/media/texas.3dd46ac9d8b20e5b77fe2a808e6f3d1f.svg",
+    "static/media/app.svg": "/static/media/app.45288807dfeef78f73dd00c69238962c.svg",
+    "static/media/dots.svg": "/static/media/dots.56a416450b25edba8867adca99bfac21.svg",
+    "static/media/logo.svg": "/static/media/logo.f960af0a37f151a574e391c92c14e4bd.svg",
+    "static/media/dell.svg": "/static/media/dell.b23bd1a56ed0fdeedc353cbadd42779a.svg",
+    "static/media/disney.svg": "/static/media/disney.7dc25886bdf5611cd3a6bf16bd0659d2.svg",
+    "static/media/deezer.svg": "/static/media/deezer.fd49aecdb3e5906966ed6d335e8d9d9d.svg",
+    "static/media/spotify.svg": "/static/media/spotify.2c7ee2466da3957958e7caa73bc96569.svg",
+    "static/media/verizon.svg": "/static/media/verizon.819a402cac886feb5aa60b3883b56026.svg",
+    "static/media/cisco.svg": "/static/media/cisco.f056a09c63aa671f89f6bc4a52a87c03.svg",
+    "index.html": "/index.html",
+    "main.e50a1ebd.css.map": "/static/css/main.e50a1ebd.css.map",
+    "main.3fcad3b9.js.map": "/static/js/main.3fcad3b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50a1ebd.css",
+    "static/js/main.3fcad3b9.js"
+  ]
+}
