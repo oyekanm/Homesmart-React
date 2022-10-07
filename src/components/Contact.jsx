@@ -132,7 +132,7 @@ function Contact() {
             </label>
           </div>
           <div className="btn-button btn-sign">
-            <a href="#" className="btn ">
+            <a href="https://wa.me/2348139763321?text=urlencodedtext" className="btn ">
               sign up
             </a>
           </div>
